@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "getSecLargestNum",
+      "request": "launch",
+      "mainClass": "dsa.getSecLargestNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "countDigGreater5",
+      "request": "launch",
+      "mainClass": "dsa.countDigGreater5",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "reverseNum",
+      "request": "launch",
+      "mainClass": "dsa.reverseNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "smallDigit",
+      "request": "launch",
+      "mainClass": "dsa.smallDigit",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "productOfDigit",
+      "request": "launch",
+      "mainClass": "dsa.productOfDigit",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "sumOfOddNum",
+      "request": "launch",
+      "mainClass": "dsa.sumOfOddNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "countOddNum",
+      "request": "launch",
+      "mainClass": "dsa.countOddNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "countEvenDigit",
+      "request": "launch",
+      "mainClass": "dsa.countEvenDigit",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "palindromeNum",
+      "request": "launch",
+      "mainClass": "dsa.palindromeNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
