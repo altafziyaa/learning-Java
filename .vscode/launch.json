@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BeatingHeart",
+      "request": "launch",
+      "mainClass": "patternproblem.BeatingHeart",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "hiba",
+      "request": "launch",
+      "mainClass": "patternproblem.hiba",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "patternproblem.first",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "numSquare",
+      "request": "launch",
+      "mainClass": "patternproblem.numSquare",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "numSquare",
+      "request": "launch",
+      "mainClass": "patternProblem.numSquare",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "patternProblem.first",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "getSecLargestNum",
       "request": "launch",
       "mainClass": "dsa.getSecLargestNum",
