@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "getBiggestDig",
+      "request": "launch",
+      "mainClass": "dsa.getBiggestDig",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "piramidSec",
+      "request": "launch",
+      "mainClass": "patternproblem.piramidSec",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "piramid",
+      "request": "launch",
+      "mainClass": "patternproblem.piramid",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "printPattern",
+      "request": "launch",
+      "mainClass": "patternproblem.printPattern",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "matrix",
+      "request": "launch",
+      "mainClass": "patternproblem.matrix",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "BeatingHeart",
       "request": "launch",
       "mainClass": "patternproblem.BeatingHeart",
