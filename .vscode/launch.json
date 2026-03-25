@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "serial",
+      "request": "launch",
+      "mainClass": "serialNum.serial",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "getBiggestDig",
       "request": "launch",
       "mainClass": "dsa.getBiggestDig",
