@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "prog4",
+      "request": "launch",
+      "mainClass": "patternProblem.prog4",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog3",
+      "request": "launch",
+      "mainClass": "patternProblem.prog3",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog2",
+      "request": "launch",
+      "mainClass": "patternProblem.prog2",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog1",
+      "request": "launch",
+      "mainClass": "patternProblem.prog1",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "second",
       "request": "launch",
       "mainClass": "patternproblem.second",
