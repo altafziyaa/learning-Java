@@ -1,5 +1,5 @@
 package patternProblem;
 
-public class serieal {
+public class prog3 {
 
 }
