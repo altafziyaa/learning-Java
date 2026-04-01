@@ -87,7 +87,11 @@ eg-> class Demo{
 Q12. What happens if we don't call a method?
 Ans. its run but does not executes
 
+Q. what is var args method ?
+Ans . 
+var args allow method passing variable numbers of arguments.
 
+eg->void sum(int... nums){};
 
 
 

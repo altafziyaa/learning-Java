@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Car2",
+      "request": "launch",
+      "mainClass": "oops.Car2",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "oops.Car",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog5",
+      "request": "launch",
+      "mainClass": "patternProblem.prog5",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "prog4",
       "request": "launch",
       "mainClass": "patternProblem.prog4",
