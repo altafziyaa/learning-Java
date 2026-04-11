@@ -6,6 +6,153 @@
   "configurations": [
     {
       "type": "java",
+      "name": "getoneToten",
+      "request": "launch",
+      "mainClass": "switchCase.getoneToten",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "swicthStmt",
+      "request": "launch",
+      "mainClass": "dsa.swicthStmt",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog9",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog9",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "biggestDigit",
+      "request": "launch",
+      "mainClass": "dsa.biggestDigit",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "switchCase",
+      "request": "launch",
+      "mainClass": "nestedif.switchCase",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "checkChar",
+      "request": "launch",
+      "mainClass": "nestedif.checkChar",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "condtion",
+      "request": "launch",
+      "mainClass": "nestedif.condtion",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "month",
+      "request": "launch",
+      "mainClass": "switchCase.month",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "elseifLadder",
+      "request": "launch",
+      "mainClass": "switchCase.elseifLadder",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "primeNum",
+      "request": "launch",
+      "mainClass": "ifelse.primeNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog8",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog8",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog7",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog7",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "factorialNum",
+      "request": "launch",
+      "mainClass": "dsa.factorialNum",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog6",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog6",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog5",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog5",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog4",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog4",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog3",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog3",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog2",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog2",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog1",
+      "request": "launch",
+      "mainClass": "numberQuestion.prog1",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog2",
+      "request": "launch",
+      "mainClass": "dsa.prog2",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
+      "name": "prog1",
+      "request": "launch",
+      "mainClass": "dsa.prog1",
+      "projectName": "java_29a10a80"
+    },
+    {
+      "type": "java",
       "name": "Car2",
       "request": "launch",
       "mainClass": "oops.Car2",

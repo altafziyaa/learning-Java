@@ -1,28 +1,19 @@
 package switchCase;
 
 public class month {
-  public static void main(String[] args) {
-    int month = 4;
-     switch (month) {
-       case 1:
-      System.out.println("january");
 
-        break;
-        case 2:
-      System.out.println("fabruary");
-      break;
+    public static void main(String[] args) {
+        int a = 20;
+        int b = 30;
+        int c = 40;
 
-        case 3:
-      System.out.println("march");
-      break;
-
-      case 4:
-      System.out.println("april");
-        break;
-
-      default:
-        break;
-     }
-  }
+        if (a > b && a > c) {
+            System.out.println("a is bigeest num");
+        } else if (b > a && b > c) {
+            System.out.println("b is biggest num");
+        } else {
+            System.out.println("c is biggest num");
+        }
+    }
 
 }
